@@ -1,2 +1,2 @@
 console.log("hello world");
-console.log("nama saya ....");
+console.log("anda kena prank");
